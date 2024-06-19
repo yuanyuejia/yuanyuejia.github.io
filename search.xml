@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>FydeOS安装及初体验</title>
-      <link href="/posts/3ea82ea7.html"/>
-      <url>/posts/3ea82ea7.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="一-安装">一 安装</h2><h3 id="1-下载镜像">1.下载镜像</h3><h4 id="先在fydeos官网下载镜像，根据自己电脑配置选择版本。">先在fydeos官网下载镜像，根据自己电脑配置选择版本。</h4><h4 id="下载地址：fydeos-com-download">下载地址：<a href="https://fydeos.com/download">fydeos.com/download/ </a></h4><h3 id="2-刻录OS镜像">2.刻录OS镜像</h3><h4 id="准备一个8G以上的U盘，记得备份数据（因为要格式化）。">准备一个8G以上的U盘，记得备份数据（因为要格式化）。</h4><h4 id="刻录建议使用Rufus或者BalenaEtcher。（有特殊需求的可以使用Ventoy-并将下载得到的-xz文件解压放在ventoy目录中）。">刻录建议使用<a href="https://rufus.ie/downloads/">Rufus</a>或者<a href="https://etcher.balena.io/">BalenaEtcher</a>。（有特殊需求的可以使用Ventoy,并将下载得到的.xz文件解压放在ventoy目录中）。</h4><h4 id="使用后U盘的恢复方法见知乎">使用后U盘的恢复方法见<a href="htps://zhuanlan.zhihu.com/p/335090328">知乎</a></h4><h3 id="3-划分分区">3.划分分区</h3><h4 id="使用磁盘管理工具划分磁盘，至少20G（为了避免混淆，最好与主分区容量不同）。">使用磁盘管理工具划分磁盘，至少20G（为了避免混淆，最好与主分区容量不同）。</h4><h4 id="4-通过U盘启动并安装FydeOS">4.通过U盘启动并安装FydeOS</h4><h4 id="现在可以重启电脑，进入BIOS调整启动项顺序，把U盘放在第一位。F10保存退出，-进入系统界面后（由于是U盘启动，会比较慢，请耐心等候）-设置好网络，注册fydeOS的账号，进入主界面。">现在可以重启电脑，进入BIOS调整启动项顺序，把U盘放在第一位。F10保存退出， 进入系统界面后（由于是U盘启动，会比较慢，请耐心等候） 设置好网络，注册fydeOS的账号，进入主界面。</h4><h4 id="进入FydeOS应用商店并安装安装程序，在安装程序中选择你的系统分区和efi分区，并选择多系统引导安装，耐心等待安装完成。">进入FydeOS应用商店并安装安装程序，在安装程序中选择你的系统分区和efi分区，并选择多系统引导安装，耐心等待安装完成。</h4>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> System </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/posts/2013454d.html"/>
       <url>/posts/2013454d.html</url>
@@ -42,6 +23,25 @@
             <tag> Markdown </tag>
             
             <tag> 外挂标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>FydeOS安装及初体验</title>
+      <link href="/posts/3ea82ea7.html"/>
+      <url>/posts/3ea82ea7.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="一-安装">一 安装</h2><h3 id="1-下载镜像">1.下载镜像</h3><h4 id="先在fydeos官网下载镜像，根据自己电脑配置选择版本。">先在fydeos官网下载镜像，根据自己电脑配置选择版本。</h4><h4 id="下载地址：fydeos-com-download">下载地址：<a href="https://fydeos.com/download">fydeos.com/download/ </a></h4><h3 id="2-刻录OS镜像">2.刻录OS镜像</h3><h4 id="准备一个8G以上的U盘，记得备份数据（因为要格式化）。">准备一个8G以上的U盘，记得备份数据（因为要格式化）。</h4><h4 id="刻录建议使用Rufus或者BalenaEtcher。（有特殊需求的可以使用Ventoy-并将下载得到的-xz文件解压放在ventoy目录中）。">刻录建议使用<a href="https://rufus.ie/downloads/">Rufus</a>或者<a href="https://etcher.balena.io/">BalenaEtcher</a>。（有特殊需求的可以使用Ventoy,并将下载得到的.xz文件解压放在ventoy目录中）。</h4><h4 id="使用后U盘的恢复方法见知乎">使用后U盘的恢复方法见<a href="htps://zhuanlan.zhihu.com/p/335090328">知乎</a></h4><h3 id="3-划分分区">3.划分分区</h3><h4 id="使用磁盘管理工具划分磁盘，至少20G（为了避免混淆，最好与主分区容量不同）。">使用磁盘管理工具划分磁盘，至少20G（为了避免混淆，最好与主分区容量不同）。</h4><h4 id="4-通过U盘启动并安装FydeOS">4.通过U盘启动并安装FydeOS</h4><h4 id="现在可以重启电脑，进入BIOS调整启动项顺序，把U盘放在第一位。F10保存退出，-进入系统界面后（由于是U盘启动，会比较慢，请耐心等候）-设置好网络，注册fydeOS的账号，进入主界面。">现在可以重启电脑，进入BIOS调整启动项顺序，把U盘放在第一位。F10保存退出， 进入系统界面后（由于是U盘启动，会比较慢，请耐心等候） 设置好网络，注册fydeOS的账号，进入主界面。</h4><h4 id="进入FydeOS应用商店并安装安装程序，在安装程序中选择你的系统分区和efi分区，并选择多系统引导安装，耐心等待安装完成。">进入FydeOS应用商店并安装安装程序，在安装程序中选择你的系统分区和efi分区，并选择多系统引导安装，耐心等待安装完成。</h4>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> System </tag>
             
         </tags>
       
